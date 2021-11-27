@@ -1,3 +1,4 @@
+#This bubble sort
 #!/bin/bash
 # Sorting the array in Bash 
 # using Bubble sort
